@@ -1,16 +1,14 @@
-### Hi there 
 <h1>Olá 👋! Eu sou o Fernando Felip ⚡</h1>
 <h2>Tenho 24 anos e sou um desenvolvedor front-end 💻</h2>
 
 <div align="left">
   <a href="https://github.com/fernandorussie">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandorussie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandorussie&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandorussie&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandorussie&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
   <div>
-     ![Snake animation](https://github.com/fernandorussie/fernandorussie/blob/output/github-contribution-grid-snake.svg)
+    <img align="right" alt="Ferlip-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/509797152445169664/1022552142990545028/Ferlip.gif?width=676&height=676">
   </div>
-  
 <!--*************** Contact ***************-->
 <div>
   <br>
@@ -111,13 +109,3 @@
 </div>
 
 ---
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--  Fun fact: ...
-
