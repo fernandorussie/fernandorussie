@@ -3,8 +3,8 @@
 
 <div align="left">
   <a href="https://github.com/fernandorussie">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandorussie&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandorussie&layout=compact&langs_count=7&theme=ocean_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandorussie&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandorussie&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   <div>
     <img align="right" alt="Ferlip-pic" height="150" style="border-radius:50px;" src="https://lh3.googleusercontent.com/ODn_ApjLUgEEk2th6Nz2ociLI0diZ31qcExHae7nwwiImFwISefQbzll2GsGebHFXHnfH2_BQv_K2kZSyH-CTm3Ol1naq5LTH_BtigPBUI4_8Wbfr6iH6JjznUVZ3ZE5_1tAT3Xt3qJ8nMftg_VQs-pfHMF79_edtezk8fOE9gzO0I3KXReEGZndaYreON1VYb_6QUikpzLWXxarQYOXOnzw7NEipjiF6vnLvgYNJ-PsYEDdXyN9C8QHppW0IiB3_xIcpZt6Es_d48OOe9ZmVEyueHLMloe9A3pz_VskASrhK5-WvZoACo6wm-a1QIUaGGvft9DJaWBmajVc96rfr85ngKuz8bkD0kTr5GTUmE3cfSEy_60vjVH-5VLuDRIIMpPlY5feAZupeRJgZZDzIAxtl2TFoQ_dhXROq_94akco5q_LMXjutWkUUXgt-MQTB7l5FNeTHIhewmG2GJ2MsVxC9LTO-AFkrNM7CiwgvnXkgIPrawotzH068pNlBjWt87nKXNp2PgZXO6MeWarZXPl5oyjMXOoahq-wL7ZA8qeZtPYZi49wYV7jZ-T-_DdydHYddxWr4mDadrqnRCmChVjzv_7okV73lOw4NQ8fpJkYc2OK_TZpdpyxq1ThMLvGNEtSaO3YamWzE_C0c162YHNdNhOVcICUvFS5Xo8wt4T9fM5M1vyNaWuiUhAFz44s3UbjkPZAkMqnf7_Vx4Csbz3nHATFV7NUv_VKjgWOwcJQJ4j51uPDFEsefVj7yLpdacA8c-VMcbhIwUNe0BzsOgj9X1ykNTdPk8WFSMFajfTYEmenDLHWX67MwJOrr5w2pcA-cM_FVgSJfH7O9Ggf0hJ-eHPTDOgiq8i9JjQHBL38XBtbNfOgV-HosPZo4jAwgA2JxXPo2C9jIDO6Y4oCOnTrJknizxqyciD95A7tW-iMwfjXnsz3mfqaH4vjn_3M7ytCGhbDbiS63BSDdCPKw-m6AtqcUp8XB5pf2l8xHt7cH9UNYnc=s800-no?authuser=2">
