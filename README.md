@@ -26,7 +26,7 @@
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" 
       alt="instagram">
   </a>
-  <a href="www.linkedin.com/in/fernando-felip/">
+  <a href="https://www.linkedin.com/in/fernando-felip/" target="_blank">
     <img 
       src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=white" 
       alt="linked-in">
