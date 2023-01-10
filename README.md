@@ -1,5 +1,5 @@
 <h1>Olá 👋! Eu sou o Fernando Felip ⚡</h1>
-<h2>Tenho 24 anos e sou um desenvolvedor front-end 💻</h2>
+<h2>Tenho 25 anos e sou um desenvolvedor front-end 💻</h2>
 
 <div align="left">
   <a href="https://github.com/fernandorussie">
