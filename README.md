@@ -44,8 +44,8 @@
   <ul>
     <li>💻 Desenvolvedor Front-end em React.js.</li><br/>
     <li>🌎 Brasileiro nascido no Rio de Janeiro</li><br/>
-    <li>🚀 Estudando e me aprofundando cada vez mais no desenvolvimento front-end e descobrindo os poderes da programação.</li><br/>
-    <li>📚🎓 Estou cursando Analise e Desenvolvimento de Sistemas na FAETERJ e no momento estou aprendendo PHP e C.</li><br/>
+    <li>🚀 Estudando e me aprofundando cada vez mais no Desenvolvimento Web e descobrindo os poderes da programação.</li><br/>
+    <li>📚🎓 Estou cursando Analise e Desenvolvimento de Sistemas na FAETERJ-Rio e no momento estou aprendendo PHP e C.</li><br/>
     <li>🤓 Estou sempre buscando me aperfeiçoar no meu desenvolvimento como programador.</li><br/>
     <li>💬 Qualquer dica ou ajuda é sempre bem vinda! (seriously)</li><br/>
     <br/>
